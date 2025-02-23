@@ -2,6 +2,10 @@
 
 Este repositorio contiene instrucciones y soluciones para la instalación y configuración de OpenCV en sistemas basados en Linux, con especial atención a Kali Linux y sus derivados.
 
+![WhatsApp Image 2025-02-22 at 00 24 23_87ba4879](https://github.com/user-attachments/assets/bb105163-19d3-41af-9a6c-0dcf696125a4)
+
+![WhatsApp Image 2025-02-22 at 23 48 21_ca72fbce](https://github.com/user-attachments/assets/01dec642-219e-455f-91b9-ea714b955aa7)
+
 ## OpenCv-Filtro
 
 ### 1. Actualizar el sistema

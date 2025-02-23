@@ -73,11 +73,12 @@ def segmentar_color():
     # Convertir imágenes para mostrar
     mascara_rgb = cv2.cvtColor(mascara, cv2.COLOR_GRAY2RGB)
     imagen_rgb = cv2.cvtColor(img_original, cv2.COLOR_BGR2RGB)
+    resultado_rgb = cv2.cvtColor(resultado, cv2.COLOR_BGR2RGB)
 
     # Mostrar imágenes en la interfaz
     mostrar_imagen(imagen_rgb, label_imagen_original)  # Imagen original
     mostrar_imagen(mascara_rgb, label_imagen_mascara)  # Máscara
-    mostrar_imagen(resultado, label_imagen_resultado)  # Imagen segmentada
+    mostrar_imagen(resultado_rgb, label_imagen_resultado)  # Imagen segmentada
 
 # Función para mostrar una imagen en un label de Tkinter
 def mostrar_imagen(imagen, label):
@@ -102,13 +103,13 @@ boton_segmentar.pack()
 
 # Etiquetas para mostrar imágenes
 label_imagen_original = tk.Label(ventana)
-label_imagen_original.pack()
+label_imagen_original.pack(side="left", padx=10)
 
 label_imagen_mascara = tk.Label(ventana)
-label_imagen_mascara.pack()
+label_imagen_mascara.pack(side="left", padx=10)
 
 label_imagen_resultado = tk.Label(ventana)
-label_imagen_resultado.pack()
+label_imagen_resultado.pack(side="left", padx=10)
 
 label_color_seleccionado = tk.Label(ventana, text="Color Seleccionado", width=20, height=2)
 label_color_seleccionado.pack()

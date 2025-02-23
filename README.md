@@ -6,6 +6,11 @@ Este repositorio contiene instrucciones y soluciones para la instalación y conf
 
 ![WhatsApp Image 2025-02-22 at 23 48 21_ca72fbce](https://github.com/user-attachments/assets/01dec642-219e-455f-91b9-ea714b955aa7)
 
+- Herramientas de Dibujo
+- Aplicación de filtros en programa gráfico
+- Segmentación por colores en programa gráfico
+- Crea una dibujo base cursor 
+
 ## OpenCv-Filtro
 
 ### 1. Actualizar el sistema

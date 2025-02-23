@@ -95,3 +95,12 @@ pip install opencv-contrib-python numpy pillow --break-system-packages
 
 pip install tkinterdnd2
 
+from tkinterdnd2 import DND_FILES, TkinterDnD
+import tkinterdnd2
+from tkinterdnd2 import DND_FILES
+ventana = TkinterDnD.Tk()
+ventana = tkinterdnd2.TkinterDnD.Tk()
+Instala manualmente en Replit
+Si estás en Replit, ejecuta este código en tu script antes de importar:
+import os
+os.system("pip install tkinterdnd2")

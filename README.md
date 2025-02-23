@@ -92,3 +92,6 @@ Opción 3: Forzar la instalación con --break-system-packages (no recomendado)
 Si quieres forzar la instalación globalmente (riesgoso porque puede dañar dependencias del sistema), usa:
 
 pip install opencv-contrib-python numpy pillow --break-system-packages
+
+pip install tkinterdnd2
+

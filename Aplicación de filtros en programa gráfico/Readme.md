@@ -12,3 +12,5 @@ programador de los que haya observado en prácticas anteriores que funcionan
 adecuadamente para el tipo de imágenes de su proyecto integrador y explicar por qué en 
 sus evidencias) filtros (suavizado, Convolución 2D, promedio, Gaussiano, Mediana, 
 Umbralización Simple y Adaptativa, Binarización de Otsu, Laplaciano, Sobel X e Y y Canny)  
+
+<img width="1175" height="716" alt="image" src="https://github.com/user-attachments/assets/be50f476-707c-45bc-924e-6cc20119d674" />

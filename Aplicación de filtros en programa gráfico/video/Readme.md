@@ -16,3 +16,5 @@ sus evidencias) filtros (suavizado, Convolución 2D, promedio, Gaussiano, Median
 Umbralización Simple y Adaptativa, Binarización de Otsu, Laplaciano, Sobel X e Y y Canny)  
 - 5. Debiendo mostrar tanto el video original y la aplicación del filtro en dos ventanas diferentes 
 - 6. Grabar 5 videos de al menos 2 minutos cada uno con los 5 tipos de filtros seleccionados. 
+
+<img width="1387" height="826" alt="image" src="https://github.com/user-attachments/assets/9f6bfdac-02b6-4fff-9199-f38b7c00cf3a" />

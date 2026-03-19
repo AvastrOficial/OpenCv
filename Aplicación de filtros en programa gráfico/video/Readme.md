@@ -17,5 +17,4 @@ Umbralización Simple y Adaptativa, Binarización de Otsu, Laplaciano, Sobel X e
 - 5. Debiendo mostrar tanto el video original y la aplicación del filtro en dos ventanas diferentes 
 - 6. Grabar 5 videos de al menos 2 minutos cada uno con los 5 tipos de filtros seleccionados. 
 
-<img width="1392" height="806" alt="image" src="https://github.com/user-attachments/assets/ff3a8cd0-2866-4da3-ab9c-e269c07e4751" />
-
+<img width="1392" height="806" alt="image" src="https://github.com/user-attachments/assets/d57b3358-d4c6-4bed-a84c-d860267f56fe" />
